@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brian-Oroba
 - 👀 I’m interested in progressive learning
 - 🌱 I’m currently working as a QA Analyst
-- 💞️ I’m looking to collaborate on several project that help improve my QA career
+- 💞️ I’m looking to collaborate on several projects that help improve my QA career
 - 📫 How to reach me bosirebryan@gmail.com / bosirebrian97@gmail.com / +254705051028 / +254743166828
 
 <!---
